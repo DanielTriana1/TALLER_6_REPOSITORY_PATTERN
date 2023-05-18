@@ -25,7 +25,7 @@
 
 </head>
 <body class="text-center">
-<img src="img/ri.png" alt="ri" width="10%">
+<h1 class="display-1">DR</h1>©
 <br>
 <div class="container">
     <br>
